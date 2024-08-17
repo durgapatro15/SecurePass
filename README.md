@@ -1,4 +1,4 @@
-# Password Generator
+# SecurePass: Password Generator
 ## Features
 Customizable Password Length: Specify the desired length of the password, typically ranging from 0 to 30 characters.
 Character Types Selection:
